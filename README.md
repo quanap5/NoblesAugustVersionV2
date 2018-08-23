@@ -1,9 +1,7 @@
 # Hybrid approach
 ## This is some update
 
-<a href="https://imgflip.com/gif/2gdeko"><img src="https://i.imgflip.com/2gdeko.gif" title="made at imgflip.com"/></a> <a href="https://imgflip.com/gif/2gdens"><img src="https://i.imgflip.com/2gdens.gif" title="made at imgflip.com"/></a>
-
-<a href="https://imgflip.com/gif/2gdeq8"><img src="https://i.imgflip.com/2gdeq8.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2gdeko"><img src="https://i.imgflip.com/2gdeko.gif" title="made at imgflip.com"/></a> <a href="https://imgflip.com/gif/2gdens"><img src="https://i.imgflip.com/2gdens.gif" title="made at imgflip.com"/></a> <a href="https://imgflip.com/gif/2gdeq8"><img src="https://i.imgflip.com/2gdeq8.gif" title="made at imgflip.com"/></a>
 
 This is source code 
 Some demo
